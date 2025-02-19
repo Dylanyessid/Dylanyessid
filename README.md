@@ -12,15 +12,17 @@ Desarrollador backend apasionado, especializado en **Node.js** y **TypeScript**.
   - 🔸 **PostgreSQL**: Conocimiento en diseño y optimización de bases de datos.
   - 🔸 **SQL Server**: Experiencia en consultas y administración.
   - 🔸 **MySQL**: Familiaridad en gestión de datos y SQL.
+  - 🔸 **MongoDB**: Gestión de datos en documentos de Mongo.
 
 - **Tecnologías**:
-  - 🌐 **Node.js**: Desarrollo de API RESTful y aplicaciones backend.
-  - ⚡ **Express**: Creación de servidores rápidos y escalables.
+  - 🌐 **Node.js**: Desarrollo de API REST y aplicaciones backend.
+  - ⚡ **Express**: Creación de servidores minimalistas y ráoidos.
   - 📦 **NestJS**: Framework de Node.js para aplicaciones escalables y mantenibles.
 
 ### 🌱 Aprendiendo
 
 - **Patrones de Diseño**: Mejora de habilidades de programación y arquitectura.
+- **Docker**
 
 ### 📫 ¿Hablemos?
 
