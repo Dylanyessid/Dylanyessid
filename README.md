@@ -8,6 +8,7 @@ Desarrollador backend apasionado, especializado en **Node.js** y **TypeScript**.
   - 🔹 **JavaScript/TypeScript**: Experto en desarrollo backend con Node.js.
   - 🔹 **Python**: Conocimientos básicos para scripts y automatización.
 
+
 - **Bases de Datos**:
   - 🔸 **PostgreSQL**: Conocimiento en diseño y optimización de bases de datos.
   - 🔸 **SQL Server**: Experiencia en consultas y administración.
@@ -19,6 +20,11 @@ Desarrollador backend apasionado, especializado en **Node.js** y **TypeScript**.
   - ⚡ **Express**: Creación de servidores minimalistas y ráoidos.
   - 📦 **NestJS**: Framework de Node.js para aplicaciones escalables y mantenibles.
 
+- **Varios**
+   - 🛠️ **Patrones de diseño**
+   - 🛜 **Test de APIs con clientes como Postman, Insomnia, HTTPie**
+  
+  
 ### 🌱 Aprendiendo
 
 - **Patrones de Diseño**: Mejora de habilidades de programación y arquitectura.
@@ -29,7 +35,7 @@ Desarrollador backend apasionado, especializado en **Node.js** y **TypeScript**.
 ¡Estoy buscando nuevas oportunidades laborales y colaboraciones! Si tienes un proyecto interesante o deseas discutir sobre tecnología, no dudes en contactarme:
 
 - ✉️ Email: [dylanyessid1904@gmail.com](mailto:dylanyessid1904@gmail.com)
-- 💼 LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/dylan-yessid-l%C3%B3pez-jaramillo-9b41a5220/)
+- 💼 LinkedIn: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/dylan-yessid-l%C3%B3pez-jaramillo-9b41a5220/)
 
 ---
 
