@@ -2,6 +2,10 @@
 
 Desarrollador backend apasionado, especializado en **Node.js** y **TypeScript**. Me encanta construir aplicaciones robustas y eficientes. Siempre estoy aprendiendo y explorando nuevas tecnologías.
 
+## 💼 Portfolio
+
+[Ver Portfolio](https://project-dylan-portfolio-p7yaxernf.vercel.app/)
+
 ## 🛠️ Stack
 
 **Backend**
