@@ -2,33 +2,29 @@
 
 Desarrollador backend apasionado, especializado en **Node.js** y **TypeScript**. Me encanta construir aplicaciones robustas y eficientes. Siempre estoy aprendiendo y explorando nuevas tecnologías.
 
-### 🛠️ Habilidades
+## 🛠️ Stack
 
-- **Lenguajes de Programación**:
-  - 🔹 **JavaScript/TypeScript**: Experto en desarrollo backend con Node.js.
-  - 🔹 **Python**: Conocimientos básicos para scripts y automatización.
+**Backend**
+- Node.js / TypeScript — producción, serverless, APIs REST
+- C# / ASP.NET Core — en activo desarrollo y aprendizaje
+- Express · NestJS
 
+**Cloud & DevOps**
+- AWS: Lambda, SQS, RDS, DynamoDB
+- Docker · GitHub Actions · CI/CD
 
-- **Bases de Datos**:
-  - 🔸 **PostgreSQL**: Conocimiento en diseño y optimización de bases de datos.
-  - 🔸 **SQL Server**: Experiencia en consultas y administración.
-  - 🔸 **MySQL**: Familiaridad en gestión de datos y SQL.
-  - 🔸 **MongoDB**: Gestión de datos en documentos de Mongo.
+**Bases de datos**
+- PostgreSQL · MySQL · MongoDB · DynamoDB
 
-- **Tecnologías**:
-  - 🌐 **Node.js**: Desarrollo de API REST y aplicaciones backend.
-  - ⚡ **Express**: Creación de servidores minimalistas y ráoidos.
-  - 📦 **NestJS**: Framework de Node.js para aplicaciones escalables y mantenibles.
+**Mobile**
+- Kotlin / Android nativo (Jetpack Compose, MVVM, Retrofit)
 
 - **Varios**
    - 🛠️ **Patrones de diseño**
-   - 🛜 **Test de APIs con clientes como Postman, Insomnia, HTTPie**
+   - 🛜 **Test de APIs con clientes como Postman**
+   - 💻  **CI/CD:** Docker, GitHub ,GitHub Actions
+   
   
-  
-### 🌱 Aprendiendo
-
-- **Patrones de Diseño**: Mejora de habilidades de programación y arquitectura.
-- **Docker**
 
 ### 📫 ¿Hablemos?
 
@@ -45,9 +41,17 @@ Desarrollador backend apasionado, especializado en **Node.js** y **TypeScript**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-yessid-lópez-jaramillo-9b41a5220)
 
-## 💻 Tech Stack:
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 💻 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats:
 
